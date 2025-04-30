@@ -35,6 +35,4 @@ A simple Tic Tac Toe game built with HTML, CSS, and JavaScript.
 
 No installation required. Just open `index.html` in your browser.
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
